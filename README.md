@@ -2,6 +2,10 @@
 
 -Estado del proyecto: En construcción.
 
+Para ejecutar el sistema, debe poner:
+
+```npm install react```
+
 Título e imagen de portada;
 Insignias;
 Índice;
