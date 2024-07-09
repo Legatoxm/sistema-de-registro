@@ -17,3 +17,5 @@ Tecnologías utilizadas;
 Personas Contribuyentes;
 Personas Desarrolladoras del Proyecto;
 Licencia.
+
+-Sistema de registro 2
